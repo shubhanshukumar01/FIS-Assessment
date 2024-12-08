@@ -1,0 +1,15 @@
+ebay_ui_automation/
+│
+├── features/
+│   ├── cart.feature
+│   └── steps/
+│       └── cart_steps.py
+│
+├── pages/
+│   └── ebay_pages.py
+│
+├── tests/
+│   └── conftest.py
+│
+├── requirements.txt
+└── config.py
